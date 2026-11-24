@@ -1,0 +1,4 @@
+source/book.html
+__pycache__/
+*.pyc
+.DS_Store
